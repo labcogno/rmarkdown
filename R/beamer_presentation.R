@@ -36,7 +36,7 @@
 #' @param self_contained Whether to generate a full LaTeX document (\code{TRUE})
 #'   or just the body of a LaTeX document (\code{FALSE}). Note the LaTeX
 #'   document is an intermediate file unless \code{keep_tex = TRUE}.
-#' @return R Markdown output format to pass to \code{\link{render}}
+#' @return R Markdown output format to pass to \code{\link{render}} 
 #' @examples
 #' \dontrun{
 #'
